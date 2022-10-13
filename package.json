@@ -12,8 +12,6 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "dependencies": {
-    "@radix-ui/react-checkbox": "^1.0.0",
-    "@radix-ui/react-slot": "^1.0.0",
     "clsx": "^1.2.1",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0",
@@ -21,6 +19,8 @@
   },
   "devDependencies": {
     "@babel/core": "^7.19.3",
+    "@radix-ui/react-checkbox": "^1.0.0",
+    "@radix-ui/react-slot": "^1.0.0",
     "@storybook/addon-actions": "^6.5.12",
     "@storybook/addon-essentials": "^6.5.12",
     "@storybook/addon-interactions": "^6.5.12",
